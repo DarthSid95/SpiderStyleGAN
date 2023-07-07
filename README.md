@@ -1,1 +1,3 @@
-# SpiderStyleGAN Code and Pre-trained Models Coming Soon
+# SpiderStyleGAN Code based on StyleGAN3
+
+Detailed README and Pre-trained Models Coming Soon
